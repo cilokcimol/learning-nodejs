@@ -1,0 +1,22 @@
+{
+  "name": "@cilokcimol/learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning code nodejs for personal project testnet Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cilokcimol/learning-nodejs.git"
+  },
+  "author": "cilokcimol",
+  "dependencies": {
+    "@tehpoci/tehmanis": "1.0.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cilokcimol/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/cilokcimol/learning-nodejs#readme"
+}
