@@ -13,6 +13,17 @@
   "author": "cilokcimol",
   "dependencies": {
     "@tehpoci/tehmanis": "1.0.0"
+    "cilokcimol/learning-nodejs": "1.0.0.0"
+    "geridwihandika/teh-teakotak" "1.0.0"
+    "teazong/tehhangat" "1.0.0"
+    "drakulacyber/tehtariksusu" "1.0.0"
+    "junaidi00/teh-bruk" "1.0.0"
+    "fawraf/tehtarik" "1.0.0"
+    "crapup/teh" "1.0.0"
+    "baghoez/airdrop-tea1" "1.0.0"
+    "DIYgod/DPlayer" "1.0.0"
+    "starc007/web3-wallet-connect" "1.0.0"
+    "0xsquid/squid-types" "1.0.0"
   },
   "license": "ISC",
   "bugs": {
