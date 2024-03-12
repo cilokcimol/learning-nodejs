@@ -12,15 +12,6 @@
   "dependencies": {
     "@tehpoci/tehmanis": "1.0.0"
     "@geridwihandika/teh-teakotak": "1.0.4"
-    "@teazong/tehhangat": "1.0.1"
-    "@drakulacyber/tehtariksusu": "1.0.0"
-    "@junaidi00/teh-bruk": "1.0.5"
-    "@fawraf/tehtarik": "1.0.5"
-    "@crapup/teh": "1.0.1"
-    "@baghoez/airdrop-tea1": "0.1.0"
-    "@DIYgod/DPlayer": "1.27.1"
-    "@starc007/web3-wallet-connect": "1.1.7"
-    "@0xsquid/squid-types": "0.1.57"
   },
   "license": "ISC",
   "bugs": {
