@@ -1,6 +1,6 @@
 {
   "name": "@cilokcimol/learning-nodejs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Learning code nodejs for personal project testnet Tea",
   "main": "index.js",
   "author": "cilokcimol",
@@ -10,7 +10,7 @@
     "url": "https://github.com/cilokcimol/learning-nodejs"
   },
   "dependencies": {
-    "geridwihandika/teh-teakotak": "1.0.4"
+    "tehpoci": "1.1.4"
   },
   "license": "ISC",
   "bugs": {
