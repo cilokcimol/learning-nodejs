@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cilokcimol/learning-nodejs.git"
+    "url": "https://github.com/cilokcimol/learning-nodejs"
   },
   "author": "cilokcimol",
   "dependencies": {
     "@tehpoci/tehmanis": "1.0.0"
-    "cilokcimol/learning-nodejs": "1.0.0.0"
+    "cilokcimol/learning-nodejs": "1.0.0"
     "geridwihandika/teh-teakotak" "1.0.0"
     "teazong/tehhangat" "1.0.0"
     "drakulacyber/tehtariksusu" "1.0.0"
